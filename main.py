@@ -2,7 +2,7 @@ n = int(input("Digite um número: "))
 
 numbers = []
 
-for i in range(1, n + 1):
+for i in range(2, n + 1):
     if(i == 2):
         numbers.append(i)
     elif(i % 2 != 0):
