@@ -1,4 +1,4 @@
-n = int(input("Digite um número: "))
+n = int(input("Enter a number: "))
 
 numbers = []
 
